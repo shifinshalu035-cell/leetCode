@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/shifinshalu035-cell/leetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/shifinshalu035-cell/leetCode/tree/master/0066-plus-one) |
+| [1929-concatenation-of-array](https://github.com/shifinshalu035-cell/leetCode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,4 +32,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shifinshalu035-cell/leetCode/tree/master/0067-add-binary) |
+| [1929-concatenation-of-array](https://github.com/shifinshalu035-cell/leetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
