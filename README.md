@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/shifinshalu035-cell/leetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shifinshalu035-cell/leetCode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/shifinshalu035-cell/leetCode/tree/master/0412-fizz-buzz) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/shifinshalu035-cell/leetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shifinshalu035-cell/leetCode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/shifinshalu035-cell/leetCode/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/shifinshalu035-cell/leetCode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/shifinshalu035-cell/leetCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/shifinshalu035-cell/leetCode/tree/master/2469-convert-the-temperature) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shifinshalu035-cell/leetCode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/shifinshalu035-cell/leetCode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/shifinshalu035-cell/leetCode/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
