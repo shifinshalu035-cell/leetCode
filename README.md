@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/shifinshalu035-cell/leetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shifinshalu035-cell/leetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/shifinshalu035-cell/leetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/shifinshalu035-cell/leetCode/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/shifinshalu035-cell/leetCode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/shifinshalu035-cell/leetCode/tree/master/2413-smallest-even-multiple) |
@@ -36,10 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shifinshalu035-cell/leetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/shifinshalu035-cell/leetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/shifinshalu035-cell/leetCode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/shifinshalu035-cell/leetCode/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shifinshalu035-cell/leetCode/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/shifinshalu035-cell/leetCode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
