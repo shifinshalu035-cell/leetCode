@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/shifinshalu035-cell/leetCode/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/shifinshalu035-cell/leetCode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/shifinshalu035-cell/leetCode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/shifinshalu035-cell/leetCode/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shifinshalu035-cell/leetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/shifinshalu035-cell/leetCode/tree/master/2469-convert-the-temperature) |
 ## Bit Manipulation
@@ -48,8 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/shifinshalu035-cell/leetCode/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/shifinshalu035-cell/leetCode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/shifinshalu035-cell/leetCode/tree/master/2427-number-of-common-factors) |
 ## Stack
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shifinshalu035-cell/leetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/shifinshalu035-cell/leetCode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
