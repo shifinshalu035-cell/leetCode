@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/shifinshalu035-cell/leetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/shifinshalu035-cell/leetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/shifinshalu035-cell/leetCode/tree/master/0412-fizz-buzz) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shifinshalu035-cell/leetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shifinshalu035-cell/leetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/shifinshalu035-cell/leetCode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/shifinshalu035-cell/leetCode/tree/master/2413-smallest-even-multiple) |
