@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shifinshalu035-cell/leetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/shifinshalu035-cell/leetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/shifinshalu035-cell/leetCode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/shifinshalu035-cell/leetCode/tree/master/0268-missing-number) |
 | [1929-concatenation-of-array](https://github.com/shifinshalu035-cell/leetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shifinshalu035-cell/leetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shifinshalu035-cell/leetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shifinshalu035-cell/leetCode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/shifinshalu035-cell/leetCode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shifinshalu035-cell/leetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shifinshalu035-cell/leetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/shifinshalu035-cell/leetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/shifinshalu035-cell/leetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/shifinshalu035-cell/leetCode/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shifinshalu035-cell/leetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shifinshalu035-cell/leetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shifinshalu035-cell/leetCode/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/shifinshalu035-cell/leetCode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -82,9 +86,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shifinshalu035-cell/leetCode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/shifinshalu035-cell/leetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shifinshalu035-cell/leetCode/tree/master/0268-missing-number) |
 | [2706-buy-two-chocolates](https://github.com/shifinshalu035-cell/leetCode/tree/master/2706-buy-two-chocolates) |
 | [2974-minimum-number-game](https://github.com/shifinshalu035-cell/leetCode/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
