@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shifinshalu035-cell/leetCode/tree/master/0268-missing-number) |
 | [1929-concatenation-of-array](https://github.com/shifinshalu035-cell/leetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shifinshalu035-cell/leetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/shifinshalu035-cell/leetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shifinshalu035-cell/leetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shifinshalu035-cell/leetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/shifinshalu035-cell/leetCode/tree/master/2706-buy-two-chocolates) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/shifinshalu035-cell/leetCode/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shifinshalu035-cell/leetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/shifinshalu035-cell/leetCode/tree/master/1678-goal-parser-interpretation) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/shifinshalu035-cell/leetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2833-furthest-point-from-origin](https://github.com/shifinshalu035-cell/leetCode/tree/master/2833-furthest-point-from-origin) |
 ## Math
 |  |
