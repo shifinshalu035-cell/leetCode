@@ -3,13 +3,14 @@
  * @return {number}
  */
 var addDigits = function(num) {
-     while (num>=10){
-        let sum = 0;
-        while(num>0){
-            sum += num%10;
-            num = Math.floor(num/10)
-        }
-      num = sum;
-     }
-     return num;
-};
+  while(num >= 10){
+    num = num
+        .toString()
+        .split('')
+        .reduce((a,b)=> {
+            return a + Number(b);
+        },0)
+  }
+  return num 
+
+    }
