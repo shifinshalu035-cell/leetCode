@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shifinshalu035-cell/leetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shifinshalu035-cell/leetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/shifinshalu035-cell/leetCode/tree/master/2706-buy-two-chocolates) |
+| [2965-find-missing-and-repeated-values](https://github.com/shifinshalu035-cell/leetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/shifinshalu035-cell/leetCode/tree/master/2974-minimum-number-game) |
 ## Binary Search
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shifinshalu035-cell/leetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/shifinshalu035-cell/leetCode/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shifinshalu035-cell/leetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/shifinshalu035-cell/leetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/shifinshalu035-cell/leetCode/tree/master/3099-harshad-number) |
 ## Bit Manipulation
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shifinshalu035-cell/leetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/shifinshalu035-cell/leetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shifinshalu035-cell/leetCode/tree/master/0268-missing-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/shifinshalu035-cell/leetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2706-buy-two-chocolates](https://github.com/shifinshalu035-cell/leetCode/tree/master/2706-buy-two-chocolates) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/shifinshalu035-cell/leetCode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
