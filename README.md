@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/shifinshalu035-cell/leetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shifinshalu035-cell/leetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shifinshalu035-cell/leetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/shifinshalu035-cell/leetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shifinshalu035-cell/leetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shifinshalu035-cell/leetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/shifinshalu035-cell/leetCode/tree/master/2706-buy-two-chocolates) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shifinshalu035-cell/leetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/shifinshalu035-cell/leetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shifinshalu035-cell/leetCode/tree/master/0268-missing-number) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/shifinshalu035-cell/leetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/shifinshalu035-cell/leetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/shifinshalu035-cell/leetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2833-furthest-point-from-origin](https://github.com/shifinshalu035-cell/leetCode/tree/master/2833-furthest-point-from-origin) |
 ## Greedy
 |  |
